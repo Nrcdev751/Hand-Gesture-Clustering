@@ -1,0 +1,7 @@
+{
+  "name": "Hand-Gesture Clustering",
+  "description": "An interactive 3D educational game where students use hand gestures to sort geometric shapes into color-coded clusters.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
